@@ -1,0 +1,5 @@
+F:\Projects\CodeEditor\CodeEditorInterface\bin\Debug\CodeEditorInterface.dll
+F:\Projects\CodeEditor\CodeEditorInterface\bin\Debug\CodeEditorInterface.pdb
+F:\Projects\CodeEditor\CodeEditorInterface\obj\Debug\CodeEditorInterface.csprojResolveAssemblyReference.cache
+F:\Projects\CodeEditor\CodeEditorInterface\obj\Debug\CodeEditorInterface.dll
+F:\Projects\CodeEditor\CodeEditorInterface\obj\Debug\CodeEditorInterface.pdb

@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeEditor", "CodeEditor\CodeEditor.csproj", "{49184200-AB50-480B-9907-016F4A3B59EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeEditorControl", "CodeEditorControl\CodeEditorControl.csproj", "{9F1B3D86-1E4F-4F67-B5AC-C63F787B5CA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeEditorInterface", "CodeEditorInterface\CodeEditorInterface.csproj", "{565F595B-6142-4E4C-8DD7-1FF0579AE8F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeEditorPlugins", "CodeEditorPlugins\CodeEditorPlugins.csproj", "{517D027A-6276-46A4-8E83-E4D4FDE074CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49184200-AB50-480B-9907-016F4A3B59EB}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{49184200-AB50-480B-9907-016F4A3B59EB}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{49184200-AB50-480B-9907-016F4A3B59EB}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{49184200-AB50-480B-9907-016F4A3B59EB}.Debug|x86.ActiveCfg = Debug|x86
+		{49184200-AB50-480B-9907-016F4A3B59EB}.Debug|x86.Build.0 = Debug|x86
+		{49184200-AB50-480B-9907-016F4A3B59EB}.Release|Any CPU.ActiveCfg = Release|x86
+		{49184200-AB50-480B-9907-016F4A3B59EB}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{49184200-AB50-480B-9907-016F4A3B59EB}.Release|Mixed Platforms.Build.0 = Release|x86
+		{49184200-AB50-480B-9907-016F4A3B59EB}.Release|x86.ActiveCfg = Release|x86
+		{49184200-AB50-480B-9907-016F4A3B59EB}.Release|x86.Build.0 = Release|x86
+		{9F1B3D86-1E4F-4F67-B5AC-C63F787B5CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1B3D86-1E4F-4F67-B5AC-C63F787B5CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1B3D86-1E4F-4F67-B5AC-C63F787B5CA6}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9F1B3D86-1E4F-4F67-B5AC-C63F787B5CA6}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9F1B3D86-1E4F-4F67-B5AC-C63F787B5CA6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9F1B3D86-1E4F-4F67-B5AC-C63F787B5CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1B3D86-1E4F-4F67-B5AC-C63F787B5CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F1B3D86-1E4F-4F67-B5AC-C63F787B5CA6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9F1B3D86-1E4F-4F67-B5AC-C63F787B5CA6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9F1B3D86-1E4F-4F67-B5AC-C63F787B5CA6}.Release|x86.ActiveCfg = Release|Any CPU
+		{565F595B-6142-4E4C-8DD7-1FF0579AE8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565F595B-6142-4E4C-8DD7-1FF0579AE8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565F595B-6142-4E4C-8DD7-1FF0579AE8F6}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{565F595B-6142-4E4C-8DD7-1FF0579AE8F6}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{565F595B-6142-4E4C-8DD7-1FF0579AE8F6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{565F595B-6142-4E4C-8DD7-1FF0579AE8F6}.Debug|x86.Build.0 = Debug|Any CPU
+		{565F595B-6142-4E4C-8DD7-1FF0579AE8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565F595B-6142-4E4C-8DD7-1FF0579AE8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565F595B-6142-4E4C-8DD7-1FF0579AE8F6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{565F595B-6142-4E4C-8DD7-1FF0579AE8F6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{565F595B-6142-4E4C-8DD7-1FF0579AE8F6}.Release|x86.ActiveCfg = Release|Any CPU
+		{565F595B-6142-4E4C-8DD7-1FF0579AE8F6}.Release|x86.Build.0 = Release|Any CPU
+		{517D027A-6276-46A4-8E83-E4D4FDE074CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517D027A-6276-46A4-8E83-E4D4FDE074CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517D027A-6276-46A4-8E83-E4D4FDE074CA}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{517D027A-6276-46A4-8E83-E4D4FDE074CA}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{517D027A-6276-46A4-8E83-E4D4FDE074CA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{517D027A-6276-46A4-8E83-E4D4FDE074CA}.Debug|x86.Build.0 = Debug|Any CPU
+		{517D027A-6276-46A4-8E83-E4D4FDE074CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517D027A-6276-46A4-8E83-E4D4FDE074CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517D027A-6276-46A4-8E83-E4D4FDE074CA}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{517D027A-6276-46A4-8E83-E4D4FDE074CA}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{517D027A-6276-46A4-8E83-E4D4FDE074CA}.Release|x86.ActiveCfg = Release|Any CPU
+		{517D027A-6276-46A4-8E83-E4D4FDE074CA}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 5
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CodeEditor\\CodeEditor.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = CodeEditor\\
+		SccProjectUniqueName2 = CodeEditorControl\\CodeEditorControl.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = CodeEditorControl\\
+		SccProjectUniqueName3 = CodeEditorPlugins\\CodeEditorPlugins.csproj
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = CodeEditorPlugins\\
+		SccProjectUniqueName4 = CodeEditorInterface\\CodeEditorInterface.csproj
+		SccLocalPath4 = .
+		SccProjectFilePathRelativizedFromConnection4 = CodeEditorInterface\\
+	EndGlobalSection
+EndGlobal

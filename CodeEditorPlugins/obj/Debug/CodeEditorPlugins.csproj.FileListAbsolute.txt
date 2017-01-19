@@ -1,0 +1,9 @@
+F:\Projects\CodeEditor\CodeEditorPlugins\bin\Debug\CodeEditorPlugins.dll
+F:\Projects\CodeEditor\CodeEditorPlugins\bin\Debug\CodeEditorPlugins.pdb
+F:\Projects\CodeEditor\CodeEditorPlugins\bin\Debug\CodeEditorInterface.dll
+F:\Projects\CodeEditor\CodeEditorPlugins\bin\Debug\CodeEditorInterface.pdb
+F:\Projects\CodeEditor\CodeEditorPlugins\obj\Debug\CodeEditorPlugins.csprojResolveAssemblyReference.cache
+F:\Projects\CodeEditor\CodeEditorPlugins\obj\Debug\CodeEditorPlugins.dll
+F:\Projects\CodeEditor\CodeEditorPlugins\obj\Debug\CodeEditorPlugins.pdb
+F:\Projects\CodeEditor\CodeEditor\bin\Debug\CodeEditorPlugins\CodeEditorPlugins.dll
+F:\Projects\CodeEditor\CodeEditor\bin\Debug\CodeEditorPlugins\CodeEditorPlugins.pdb

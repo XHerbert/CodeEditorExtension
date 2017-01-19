@@ -1,0 +1,7 @@
+F:\Projects\CodeEditor\CodeEditorControl\bin\Debug\CodeEditorControl.dll
+F:\Projects\CodeEditor\CodeEditorControl\bin\Debug\CodeEditorControl.pdb
+F:\Projects\CodeEditor\CodeEditorControl\obj\Debug\Xhb.UserControlEx.LineContorl.LineRichTextBox.resources
+F:\Projects\CodeEditor\CodeEditorControl\obj\Debug\CodeEditorControl.csproj.GenerateResource.Cache
+F:\Projects\CodeEditor\CodeEditorControl\obj\Debug\CodeEditorControl.dll
+F:\Projects\CodeEditor\CodeEditorControl\obj\Debug\CodeEditorControl.pdb
+F:\Projects\CodeEditor\CodeEditorControl\obj\Debug\CodeEditorControl.csprojResolveAssemblyReference.cache
