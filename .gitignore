@@ -22,6 +22,7 @@ $RECYCLE.BIN/
 *.vssscc
 *.cache
 *.txt
+*.suo
 # =========================
 # Operating System Files
 # =========================
